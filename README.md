@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/ErickinSegura/profile-markdown/blob/master/src/iPancrema.png?raw=true' width="100px"  height='100px'> 
+<img align='right' src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/iPancrema.png?raw=true' width="100px"  height='100px'> 
 
 # <b>Perfil
 <h2 align=center>Estudiante de Ingeniería en Tecnologías Computacionales. ⚡💙
@@ -10,7 +10,7 @@
 
 | <a href="https://github.com/ErickinSegura/segundo-semestre" target="_blank">**Segundo Semestre**</a>  |
 | :-----: | 
-<img align='center' src='https://github.com/ErickinSegura/profile-markdown/blob/master/src/leon2do.png?raw=true' width="100px"  height='100px'> |  
+<img align='center' src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/leon2do.png?raw=true' width="100px"  height='100px'> |  
 
 
 

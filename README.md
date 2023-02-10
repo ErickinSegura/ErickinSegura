@@ -17,3 +17,7 @@
 
 <h1 align=center><b> Proyectos Extra </h1>
 <p align=center>Trabajos Extra no relacionados
+
+| <a href="https://github.com/ErickinSegura/calculadora-promedio" target="_blank">**Calculadora de Promedio**</a>  |
+| :-----: | 
+Solo es un test 

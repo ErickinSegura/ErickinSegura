@@ -8,9 +8,9 @@
 <p align=center>Mis proyectos ordenados por Semestre
 
 
-| <a href="https://github.com/ErickinSegura/segundo-semestre" target="_blank">**Segundo Semestre**</a>  |
-| :-----: | 
-<img align='center' src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/leon2do.png?raw=true' width="100px"  height='100px'> |  
+| <a href="https://github.com/ErickinSegura/primer-semestre" target="_blank">**Primer Semestre**</a>|<a href="https://github.com/ErickinSegura/segundo-semestre" target="_blank">**Segundo Semestre**</a>|
+|:---:|:---:|
+<img align='center' src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/buho1ero.png?raw=true' width="100px"  height='100px'> |  <img align='center' src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/leon2do.png?raw=true' width="100px"  height='100px'> |  
 
 
 

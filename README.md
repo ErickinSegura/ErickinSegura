@@ -19,9 +19,7 @@
 
 <h1 align=center><b>⌨️ Personal Projects</h1>
 
-|**Pez**|**Pendulum**|**Pez**|**Pendulum**|**Pez**|**Pendulum**|**Pez**|**Pendulum**|**Pez**|**Pendulum**|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|
+|**Pez**|**Pendulum**|
+|:---:|:---:|
+|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|
 
-
-<h1 align="center"><b>🍀 Skills</h1>

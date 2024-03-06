@@ -10,7 +10,7 @@
 **🔱 About me**
 
 - My name is Erick
-- I'm 19 years old
+- I'm 20 years old
 - I study at [Tec de Monterrey](https://tec.mx/)
 
 <h1 align=center><b>📕 School projects</h1>

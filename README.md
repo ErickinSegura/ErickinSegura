@@ -27,9 +27,9 @@
 <h1 align=center><b>⌨️ Personal Projects</h1>
 <div align="center"> 
 
-|**Pez**|**Pendulum**|
-|:---:|:---:|
-|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|
+|**Pez**|**Pendulum**|**Seguidor de Línea**|
+|:---:|:---:|:---:|
+|<p>Voice Assistant</p> <a href="https://github.com/ErickinSegura/asistente-pez" target="_blank">`Repository`</a>|                                         <p>MC Plugin</p> <a href="https://github.com/ErickinSegura/pendulum" target="_blank">`Repository`</a>|                                          <p>2nd Place Winner</p> <a href="https://github.com/ErickinSegura/seguidor-de-linea" target="_blank">`Repository`</a>
 
 </div>
 

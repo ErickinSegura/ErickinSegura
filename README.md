@@ -1,6 +1,3 @@
-<img align='right' src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/iPancrema.png?raw=true' width="100px"  height='100px'>
-
-
 <br>
 
 # **Profile**

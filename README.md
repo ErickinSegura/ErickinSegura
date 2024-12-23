@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🦁 Erick Segura
+# 🦁 Erick Segura Sánchez
 ### Computer Science Student at Tec de Monterrey ⚡💙
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/ErickinSegura)
 

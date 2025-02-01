@@ -13,7 +13,7 @@ class ErickSegura:
         self.name = "Erick"
         self.age = 20
         self.university = "Tec de Monterrey"
-        self.current_semester = 5
+        self.current_semester = 6
 ```
 
 ## 📚 Academic Journey
@@ -29,13 +29,14 @@ class ErickSegura:
 
 ## 🛠️ Personal Projects
 
+## 🛠️ **Personal Projects**  
 <div align="center">
 
-| Project | Description | Stack | Links |
-|:-------:|:------------|:-----:|:-----:|
-| **🐠 Pez** | Voice Assistant powered by AI | `Python` `OpenAI` | [Repository](https://github.com/ErickinSegura/asistente-pez) |
-| **🎮 Pendulum** | Minecraft Plugin Development | `Java` `Spigot` | [Repository](https://github.com/ErickinSegura/pendulum) |
-| **🏆 Drone Line Follower** | 2nd Place Winner - Autonomous Grand Prix | `C++` `DJI` | [Repository](https://github.com/ErickinSegura/seguidor-de-linea) |
+| **Project** | **Description** | **Tech Stack** | **Links** |
+|:-----------:|:----------------|:---------------|:---------:|
+| **🐠 Pez** | Voice Assistant powered by AI. | `Python` `OpenAI` `SpeechRecognition` | [![Repo](https://img.shields.io/badge/Repo-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/asistente-pez) |
+| **🎮 Pendulum** | Minecraft Plugin Development. | `Java` `Spigot API` | [![Repo](https://img.shields.io/badge/Repo-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/pendulum) |
+| **🏆 Drone Line Follower** | 2nd Place Winner - Autonomous Grand Prix. | `C++` `DJI SDK` | [![Repo](https://img.shields.io/badge/Repo-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/seguidor-de-linea) |
 
 </div>
 
@@ -44,15 +45,17 @@ class ErickSegura:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickinSegura&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickinSegura&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickinSegura&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickinSegura&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF)  
 
 </div>
 
 ---
 <div align="center">
   
-📫 **Contact me:** [erickseguraog@gmail.com](mailto:erickseguraog@gmail.com)
+📫 **Contact me:** 
+
+[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickseguraog@gmail.com)  
 
 </div>
-

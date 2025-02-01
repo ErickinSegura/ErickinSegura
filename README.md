@@ -22,7 +22,7 @@ class ErickSegura:
 
 | First Semester | Second Semester | Third Semester | Fourth Semester | Fifth Semester |
 |:--------------:|:--------------:|:--------------:|:---------------:|:--------------:|
-| [![Semester 1](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/buho1ero.png?raw=true)](https://github.com/ErickinSegura/primer-semestre) | [![Semester 2](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/leon2do.png?raw=true)](https://github.com/ErickinSegura/segundo-semestre) | [![Semester 3](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/alacran3ero.png)](https://github.com/ErickinSegura/tercer-semestre) | [![Semester 4](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/drago4to.png)](https://github.com/ErickinSegura/cuarto-semestre) | [![Semester 5](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/gecko5to.jpg)](https://github.com/ErickinSegura/quinto-semestre) |
+| [![Semester 1](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/buho1ero.jpg?raw=true)](https://github.com/ErickinSegura/primer-semestre) | [![Semester 2](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/leon2do.jpg?raw=true)](https://github.com/ErickinSegura/segundo-semestre) | [![Semester 3](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/alacran3ero.jpg)](https://github.com/ErickinSegura/tercer-semestre) | [![Semester 4](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/drago4to.jpg)](https://github.com/ErickinSegura/cuarto-semestre) | [![Semester 5](https://github.com/ErickinSegura/ErickinSegura/blob/master/src/gecko5to.jpg)](https://github.com/ErickinSegura/quinto-semestre) |
 
 
 </div>

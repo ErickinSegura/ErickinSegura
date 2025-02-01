@@ -2,7 +2,7 @@
   
 # 🦁 Erick Segura Sánchez
 ### Computer Science Student at Tec de Monterrey ⚡💙
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/ErickinSegura)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/ErickinSegura)
 
 </div>
 
@@ -44,8 +44,8 @@ class ErickSegura:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickinSegura&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickinSegura&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickinSegura&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickinSegura&layout=compact&theme=dark)
 
 </div>
 
@@ -55,3 +55,4 @@ class ErickSegura:
 📫 **Contact me:** [erickseguraog@gmail.com](mailto:erickseguraog@gmail.com)
 
 </div>
+

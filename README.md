@@ -38,13 +38,13 @@ class ErickSegura:
 | **YAIMG** | Yet Another Image Compressor | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/YAIMG) |
 | **Pez**    | Voice Assistant powered by AI.       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-000000?style=flat&logo=google-cloud&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/asistente-pez) |
 | **Pendulum** | Minecraft Plugin Development.       | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white) ![Spigot](https://img.shields.io/badge/Spigot-000000?style=flat&logo=java&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/pendulum) |
-| **Drone Line Followe** |  2nd Place Winner - Autonomous Grand Prix| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![DJI SDK](https://img.shields.io/badge/DJI_SDK-000000?style=flat&logo=dji&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/seguidor-de-linea) |
+| **Drone Line Follower** |  2nd Place Winner - Autonomous Grand Prix| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![DJI SDK](https://img.shields.io/badge/DJI_SDK-000000?style=flat&logo=dji&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickinSegura/seguidor-de-linea) |
 
 
 </div>
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -60,7 +60,7 @@ class ErickSegura:
 ---
 <div align="center">
   
-📫 **Contact me:** 
+**Contact me:** 
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickseguraog@gmail.com)  
 

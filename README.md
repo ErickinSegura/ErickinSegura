@@ -12,7 +12,7 @@
 class ErickSegura:
     def __init__(self):
         self.name = "Erick"
-        self.age = 21
+        self.age = 22
         self.current_semester = 7
 ```
 
